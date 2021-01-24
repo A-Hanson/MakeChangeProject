@@ -6,7 +6,7 @@ public class MakeChange {
 	static Scanner userInput = new Scanner(System.in);
 	public static void main(String[] args) {
 		// uncomment next line to run program on given test cases
-//		testCases();
+		testCases();
 
 		// prompt user for price of item (less than 20.00) and how much they paid
 		double amount = getAmount();
